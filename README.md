@@ -25,12 +25,12 @@ PaperMind automates the academic literature review workflow by:
 
 ## ✨ Key Features
 
-* 🔍 **Automated Paper Retrieval** from arXiv using RSS/XML parsing
-* 🧠 **AI-Powered Summarization** optimized for scientific literature
-* 📂 **Structured Local Storage** of summaries for offline access
-* 🌐 **Interactive Web Interface** built with Gradio
-* 🔐 **Secure API Key Management** using environment variables
-* 🧩 **Modular Codebase** for scalability and maintainability
+* 🔍 **Automated Paper Retrieval** from arXiv using RSS/XML parsing.
+* 🧠 **AI-Powered Summarization** optimized for scientific literature.
+* 📂 **Structured Local Storage** of summaries for offline access.
+* 🌐 **Interactive Web Interface** built with Gradio.
+* 🔐 **Secure API Key Management** using environment variables.
+* 🧩 **Modular Codebase** for scalability and maintainability.
 
 ---
 
