@@ -16,10 +16,10 @@ Academic researchers and students spend a substantial amount of time searching f
 
 PaperMind automates the academic literature review workflow by:
 
-* Fetching relevant research papers from arXiv
-* Generating concise, structured summaries using AI
-* Organizing outputs into topic-based local folders
-* Providing an intuitive browser-based interface for ease of use
+* Fetching relevant research papers from arXiv.
+* Generating concise, structured summaries using AI.
+* Organizing outputs into topic-based local folders.
+* Providing an intuitive browser-based interface for ease of use.
 
 ---
 
