@@ -143,9 +143,9 @@ http://localhost:7860
 
 ## ⚠️ Limitations
 
-* Summaries are generated primarily from **paper abstracts**
-* AI-generated summaries may occasionally lack context or nuance
-* Currently limited to arXiv as the data source
+* Summaries are generated primarily from **paper abstracts**.
+* AI-generated summaries may occasionally lack context or nuance.
+* Currently limited to arXiv as the data source.
 
 ---
 
