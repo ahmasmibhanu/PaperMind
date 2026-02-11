@@ -153,8 +153,8 @@ http://localhost:7860
 
 * Full-text PDF parsing and summarization.
 * Semantic search using embeddings and vector databases.
-* Integration with additional research databases (PubMed, Semantic Scholar)
-* Citation tracking and relevance ranking
+* Integration with additional research databases (PubMed, Semantic Scholar).
+* Citation tracking and relevance ranking.
 * Export support (Markdown, BibTeX, Notion, Obsidian)
 
 ---
