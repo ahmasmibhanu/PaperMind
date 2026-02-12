@@ -155,7 +155,7 @@ http://localhost:7860
 * Semantic search using embeddings and vector databases.
 * Integration with additional research databases (PubMed, Semantic Scholar).
 * Citation tracking and relevance ranking.
-* Export support (Markdown, BibTeX, Notion, Obsidian)
+* Export support (Markdown, BibTeX, Notion, Obsidian).
 
 ---
 
