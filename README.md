@@ -162,7 +162,7 @@ http://localhost:7860
 ## 👨‍💻 Author
 
 **ahmasmibhanu**
-~B.Tech Computer Science & Engineering
+*~B.Tech Computer Science & Engineering*
 
 ---
 
