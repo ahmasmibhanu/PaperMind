@@ -151,7 +151,7 @@ http://localhost:7860
 
 ## 🔮 Future Enhancements
 
-* Full-text PDF parsing and summarization.
+* **Full-text** PDF parsing and summarization.
 * Semantic search using embeddings and vector databases.
 * Integration with additional research databases (PubMed, Semantic Scholar).
 * Citation tracking and relevance ranking.
