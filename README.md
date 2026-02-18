@@ -161,8 +161,8 @@ http://localhost:7860
 
 ## 👨‍💻 Author
 
-**ahmasmibhanu**
-*~B.Tech Computer Science & Engineering*
+**@ahmasmibhanu**
+*~AI / Full Stack / Software Engineering Enthusiast*
 
 ---
 
