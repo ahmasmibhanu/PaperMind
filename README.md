@@ -2,6 +2,8 @@
 
 ### AI-Powered Research Intelligence Assistant
 
+## 📌 Overview
+
 PaperMind is an AI-driven academic research assistant designed to automate the process of discovering, summarizing, and organizing scientific research papers. It leverages large language models and the **arXiv API** to significantly reduce the time spent on manual literature reviews while improving research productivity.
 
 ---
