@@ -1,6 +1,6 @@
 # 🧠 PaperMind
 
-**AI-Powered Research Intelligence Assistant**
+**AI-Powered Research Intelligence Assistant**........
 
 ## 📌 Overview
 
