@@ -139,7 +139,7 @@ http://localhost:7860
 * ⏱️ Reduced manual literature review time by **up to 80%**.
 * 📚 Improved organization and accessibility of research summaries.
 * 👥 Enabled non-technical users to interact with AI-based research tools.
-* 🔬 Demonstrated effective application of LLMs for **scientific text summarization**.
+* 🔬 Demonstrated effective application of LLMs for scientific text summarization.
 
 ---
 
