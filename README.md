@@ -1,6 +1,6 @@
 # 🧠 PaperMind
 
-**AI-Powered Research Intelligence Assistant**...**2026**
+**AI-Powered Research Intelligence Assistant**...
 
 ## 📌 Overview
 
